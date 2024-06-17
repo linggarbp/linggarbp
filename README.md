@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:2560/1*-KlOGKrl0EJsPWncAZ6FiQ.gif"  />
+<img align="right" height="175" src="https://miro.medium.com/v2/resize:fit:2560/1*-KlOGKrl0EJsPWncAZ6FiQ.gif"  />
 
 ###
 
