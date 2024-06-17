@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Linggar Bhakti Pratama and I'm a C# Enthusiast, from Indonesia</h2>
+<h1 align="center">Hi👋 There! </h1>
+<h3 align="center">My name is Linggar Bhakti Pratama and I'm a C# Enthusiast from Indonesia </h3>
 
 ###
 
