@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://img.icons8.com/fluency/240/azure-1.png" height="30" alt="azure-1"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -33,10 +33,11 @@
 <h3 align="left">Connect with Me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/linggarbp_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
+  <img width="12"  />
   <a href="https://www.linkedin.com/in/linggarbp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
