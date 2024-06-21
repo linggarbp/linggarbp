@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img src="https://img.icons8.com/fluency/240/azure-1.png" height="30" alt="azure-1"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
