@@ -9,6 +9,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  <img src="https://user-images.githubusercontent.com/80749112/119404178-be37f800-bcdf-11eb-8838-0bbcf49ecaf7.png" height="30" alt="appium logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
@@ -35,7 +37,7 @@
   <a href="https://www.instagram.com/linggarbp_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
-  <img width="12"  />
+  <img width="12" />
   <a href="https://www.linkedin.com/in/linggarbp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   </a>
