@@ -1,5 +1,5 @@
 <h1 align="center">Hi There!👋</h1>
-<h3 align="center">I'm a C# Enthusiast from Indonesia</h3>
+<h3 align="center">I'm a Automation Enthusiast from Indonesia</h3>
 
 ###
 
