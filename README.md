@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
 ###
